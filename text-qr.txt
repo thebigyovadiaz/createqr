@@ -1,0 +1,3 @@
+This is the text to show in the QR
+This QR is created with the package QR-CODE
+Author: thebigyovadiaz
